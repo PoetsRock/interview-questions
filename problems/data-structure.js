@@ -8,7 +8,8 @@
  * change about this data structure to make it more representative of what it's
  * meaning to be?
  *
- * Then, write a function that puts this array into that data structure.
+ * Then, write a function that puts this array into that data structure. You may
+ * write other helper functions as needed.
  */
 
 function changeStructure(people) {
