@@ -1,0 +1,15 @@
+{
+  "name": "interview-questions",
+  "version": "0.0.0",
+  "description": "A collection of some javascript interview questions that I have run into over the years.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "ksmithut",
+  "license": "MIT",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.1.0"
+  }
+}
