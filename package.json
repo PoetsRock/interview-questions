@@ -4,6 +4,7 @@
   "description": "A collection of some javascript interview questions that I have run into over the years.",
   "main": "index.js",
   "scripts": {
+    "pretest": "npm i",
     "test": "mocha"
   },
   "author": "ksmithut",
